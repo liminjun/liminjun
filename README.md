@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 工作经历
+
+### 教育经历
+
+### 项目展示
+
+### 联系
 <!--
 **liminjun/liminjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
