@@ -1,6 +1,6 @@
 ## 个人信息
 出生年月：1988.12   工作年限：11年  籍贯：江西彭泽
-博客：http://blogs.liangbenshu.cn GitHub：https://github.com/liminjun
+博客：http://blog.liangbenshu.cn GitHub：https://github.com/liminjun
 
 11年软件开发经验，从最初的Web软件开发，到后来的Web前端开发和架构，目前就职于中国云能力中心，负责移动云官网和APP、备案、工单、云听和问卷支撑功能架构和开发工作。个人微信:liminjun88
 ## 教育经历
